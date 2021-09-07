@@ -1,0 +1,46 @@
+ Requirements:
+
+ Introduction:
+A contact management is a software program that enables users to easily store and find contact information, such as names, addresses, and telephone numbers. They are contact-centric databases that provide a fully integrated approach to tracking all information and communication activities linked to contacts.
+
+Research:
+Contact management is the act of storing, organizing , and tracking information about your customers, prospects, and sales leads CRM tools typically provide contact management functionality but add features that help businesses manage their relationships.
+
+SWOT analysis:
+
+Strengths
+.We can easily store information
+.search contacts
+.delete contacts
+.contact management increases customer satisfaction
+
+Opportunities
+.sync all your accounts
+.can be used for marketing,sales etc
+.Automation of process
+
+Weakness
+.Keep data up to date
+.Better user interface	
+
+Threats
+.security
+.storage issues
+
+
+
+
+HIGH LEVEL REQUIREMENTS:
+.windows os
+.linux os
+.visual studio code
+.mingw compiler
+.code runner
+
+LOW LEVEL REQUIREMENTS:
+Processor: Minimum 1 GHz; Recommended 2GHz or more.
+Ethernet connection (LAN) OR a wireless adapter (Wi-Fi)
+Hard Drive: Minimum 32 GB; Recommended 64 GB or more.
+Memory (RAM): Minimum 1 GB; Recommended 4 GB or above.
+
+
