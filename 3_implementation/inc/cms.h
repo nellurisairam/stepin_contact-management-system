@@ -8,5 +8,5 @@ struct contact
 
     char name[20],add[20],email[30];
 
-}list;
+};
 #endif
