@@ -1,5 +1,6 @@
 # stepin_contact-management-system
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/24808678f1274caba76e6b1a0b143811)](https://app.codacy.com/gh/nellurisairam/stepin_contact-management-system?utm_source=github.com&utm_medium=referral&utm_content=nellurisairam/stepin_contact-management-system&utm_campaign=Badge_Grade_Settings)
 [![Code Quality Score](https://www.code-inspector.com/project/12/score/svg)](https://www.code-inspector.com/public/project/12/POK/dashboard)
 
 Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
