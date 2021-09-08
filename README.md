@@ -1,5 +1,5 @@
 # stepin_contact-management-system
-https://www.code-inspector.com/project/27803/status/svg
+
 
 
 Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
