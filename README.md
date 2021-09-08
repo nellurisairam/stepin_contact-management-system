@@ -4,7 +4,7 @@
    <img src="https://code-inspector.com/public/badge/user/github/nellurisairam?style=light" alt="code inspector badge" />
 </a>
 
-https://doc.code-inspector.com/img/badge.png
+
 
 Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
 
