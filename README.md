@@ -1,4 +1,4 @@
-![Untitled Diagram](https://user-images.githubusercontent.com/89563623/135565074-7e136902-95cc-4278-9bec-00e387572b6d.jpg)
+
 # stepin_contact-management-system
 
 ![Code Quality Score](https://www.code-inspector.com/project/27803/score/svg)
